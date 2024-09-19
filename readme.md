@@ -1,3 +1,5 @@
+<img src="https://github.com/eofferupp/my-temu-scraper/raw/main/images/cover.png" alt="My Temu Scraper Cover" />
+
 # 🛍️ Groupon Product Scraper
 
 ## 🚀 Effortlessly Extract Comprehensive Deal Data from Groupon!
