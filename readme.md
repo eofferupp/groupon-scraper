@@ -26,7 +26,7 @@ Unlock the full potential of Groupon with our powerful product scraper! This too
 1. **Clone the Repository**:
    Begin by cloning the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/groupon-scraper.git
+   git clone https://github.com/eofferupp/groupon-scraper.git
    cd groupon-scraper
    ```
 
@@ -48,9 +48,9 @@ Unlock the full potential of Groupon with our powerful product scraper! This too
 - **Internet Connection**: A stable internet connection is required to access Groupon.com.
 
 ### 🤝 Contribute to the Project:
-We welcome contributions from the community! If you have suggestions for improvements or new features, please check the [Issues](https://github.com/yourusername/groupon-scraper/issues) page. Here's [how to contribute](https://docs.github.com/en/get-started/quickstart/contributing-to-projects).
+We welcome contributions from the community! If you have suggestions for improvements or new features, please check the [Issues](https://github.com/eofferupp/groupon-scraper/issues) page. Here's [how to contribute](https://docs.github.com/en/get-started/quickstart/contributing-to-projects).
 
 ### 📜 License:
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
-#### Developed with ❤️ by [Your Name](https://github.com/yourusername)
+#### Developed with ❤️ by [Tres-Tech](https://github.com/eofferupp)
