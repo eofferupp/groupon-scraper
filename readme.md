@@ -55,4 +55,4 @@ We welcome contributions from the community! If you have suggestions for improve
 ### 📜 License:
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
-#### Developed with ❤️ by [Tres-Tech](https://github.com/eofferupp)
+#### Developed with ❤️ by [eofferupp](https://github.com/eofferupp)
