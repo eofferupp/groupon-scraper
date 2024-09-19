@@ -1,4 +1,4 @@
-<img src="https://github.com/eofferupp/my-temu-scraper/raw/main/images/cover.png" alt="My Temu Scraper Cover" />
+<img src="https://github.com/eofferupp/groupon-scraper/raw/main/images/cover (2).png" alt="My Temu Scraper Cover" />
 
 # 🛍️ Groupon Product Scraper
 
